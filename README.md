@@ -1,1 +1,1 @@
-# apitest
+The purpose of this project to help guide people who are working with Brightspace APIs within a Django/Python framework. Unlike other solutions that rely on Flask to get an app up and running, this guide focuses on deployment ready sites that support Docker, etc.
